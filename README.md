@@ -1,1 +1,1 @@
-# jenkins-windows-offline-setup
+# Setting Up a Windows Slave for Jenkins
