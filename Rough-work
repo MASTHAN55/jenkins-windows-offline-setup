@@ -1,5 +1,12 @@
 Download maven, java(11-or-17) any version.
-set path in envirorment variables 
+create jenkins folder for store the artifacts.
+set path in envirorment variables add path and system variables.
+got to security in jenkins set TCP port RANDOM.
+go to jenkins create node.
+
+create pipeline, build.
+
+
 
 
 
