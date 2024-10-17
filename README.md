@@ -15,7 +15,7 @@ This guide will walk you through the steps to set up a Windows slave for Jenkins
 * Run the commands provided by Jenkins to start the agent.
 ### 3. Install and Configure Maven on Windows.
 * Download the Maven Binary from the official [Maven website](https://maven.apache.org/download.cgi).
-* Extract the archive to C:\maven.
+* Extract the archive to 'C:\maven'.
 * Set up environment variables for M2_HOME and MAVEN_HOME.
 * Add Maven to your system's PATH.
 ### Screenshots.
