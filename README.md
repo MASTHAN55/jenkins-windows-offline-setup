@@ -19,7 +19,7 @@ This guide will walk you through the steps to set up a Windows slave for Jenkins
 * Set up environment variables for M2_HOME and MAVEN_HOME.
 * Add Maven to your system's PATH.
 ### Screenshots.
-* [Enable JNLP Port] (Screen-shorts/TCP.png)
-* Local Build Confirmation.
+* [Enable JNLP Port](screen-shorts/TCP.png)
+* [Local Build Confirmation](screen-shorts/)
 * Windows Slave Running.
 * Console Output.
