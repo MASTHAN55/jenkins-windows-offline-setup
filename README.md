@@ -4,7 +4,7 @@ This guide will walk you through the steps to set up a Windows slave for Jenkins
 ### Prerequisites.
 * Jenkins Master Server.
 * Windows Machine with Admin Access.
-# Steps
+### Steps
 ### 1. Enable TCP Port for JNLP Agents in Jenkins.
 * Navigate to Manage Jenkins > Configure Global Security.
 * Enable the TCP port for JNLP agents.
@@ -19,7 +19,7 @@ This guide will walk you through the steps to set up a Windows slave for Jenkins
 * Set up environment variables for M2_HOME and MAVEN_HOME.
 * Add Maven to your system's PATH.
 ### Screenshots.
-* [Enable JNLP Port](Screen-shorts/TCP.png)
+* [Enable JNLP Port] (Screen-shorts/TCP.png)
 * Local Build Confirmation.
 * Windows Slave Running.
 * Console Output.
