@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'win_slave' }  // Use your Windows slave instance
+    agent { label 'jenkins' }  // Use your Windows slave instance
 
     stages {
         stage ('checkout') {
